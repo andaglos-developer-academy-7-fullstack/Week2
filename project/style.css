@@ -1,0 +1,111 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: ; "Open Sans", sans-serif;
+    color: rgb(12, 11, 11);
+    font-size: 50px;
+    /* font-weight: 900; */
+    opacity: 0.5;
+}
+
+.bulet1 {
+    border: 1px solid #dedede;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    border-radius: 50%;
+    background-color: crimson;
+    display: inline-block;
+}
+
+.bulet1:hover {
+    background-color: crimson;
+    opacity: 0.5;
+}
+
+.bulet2 {
+    border: 1px solid #dedede;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    border-radius: 50%;
+    background-color: gold;
+    display: inline-block;
+}
+
+.bulet2:hover {
+    background-color: gold;
+    opacity: 0.5;
+}
+
+.bulet3 {
+    border: 1px solid #dedede;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    border-radius: 50%;
+    background-color: pink;
+    display: inline-block;
+}
+
+.bulet3:hover {
+    background-color: pink;
+    opacity: 0.5;
+}
+
+.bulet4 {
+    border: 1px solid #dedede;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    border-radius: 50%;
+    background-color: lime;
+    display: inline-block;
+}
+
+.bulet4:hover {
+    background-color: lime;
+    opacity: 0.5;
+}
+
+.bulet5 {
+    border: 1px solid #dedede;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    border-radius: 50%;
+    background-color: violet;
+    display: inline-block;
+}
+
+.bulet5:hover {
+    background-color: violet;
+    opacity: 0.5;
+}
+
+.bulet6 {
+    border: 1px solid #dedede;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    border-radius: 50%;
+    background-color: silver;
+    display: inline-block;
+}
+
+.bulet6:hover {
+    background-color: silver;
+    opacity: 0.5;
+}
+
+.bulet7 {
+    border: 1px solid #dedede;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    border-radius: 50%;
+    background-color: steelblue;
+    display: inline-block;
+}
